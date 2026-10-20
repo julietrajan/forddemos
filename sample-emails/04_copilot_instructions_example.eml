@@ -1,0 +1,10 @@
+From: Sam Rivera <sam.rivera@northstarmobility.example>
+To: Michael Trainer <michael.trainer@example.com>
+Subject: Preferred response style for operations updates
+Date: Tue, 29 Sep 2026 09:00:00 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Classification: Public. This demo uses a fictional Microsoft Fake Company created for demonstration purposes. Any resemblance to real organizations, people, products, services, or data is coincidental. Do not use customer confidential information in this repository.
+
+For operations updates, please use this style: start with the recommendation, include a compact table when there are multiple actions, call out risks plainly, and avoid jargon. The audience is plant leadership and program management.

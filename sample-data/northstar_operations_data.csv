@@ -1,0 +1,193 @@
+Record ID,Week Start,Plant,Product Family,Shift,Supplier,Units Planned,Units Produced,Defects,On-Time Shipments,Inspection Hours,Missing Calibration Flag,Notes
+NM-01-11,2026-07-06,North Assembly,Sensor Module,Swing,Blue Harbor Components,1099,1042,34,967,31.3,No,Normal variation
+NM-01-12,2026-07-06,North Assembly,Battery Controller,Night,Blue Harbor Components,820,816,31,781,45.1,No,Normal variation
+NM-01-13,2026-07-06,North Assembly,Infotainment Harness,Night,Blue Harbor Components,981,888,34,812,39.9,No,Normal variation
+NM-01-14,2026-07-06,North Assembly,Drive Unit Housing,Night,Vector Embedded,1056,1001,37,898,32.2,No,Normal variation
+NM-01-21,2026-07-06,River Rouge Pilot,Sensor Module,Swing,Vector Embedded,1205,1095,20,966,58.6,No,Normal variation
+NM-01-22,2026-07-06,River Rouge Pilot,Battery Controller,Day,Blue Harbor Components,1234,1152,35,1050,53.4,No,Normal variation
+NM-01-23,2026-07-06,River Rouge Pilot,Infotainment Harness,Swing,Pioneer Circuit Works,1271,1294,44,1155,51.6,No,Normal variation
+NM-01-24,2026-07-06,River Rouge Pilot,Drive Unit Housing,Swing,Blue Harbor Components,1131,1072,28,981,60.5,No,Normal variation
+NM-01-31,2026-07-06,Lakeside Components,Sensor Module,Day,Pioneer Circuit Works,829,845,19,769,49.6,No,Normal variation
+NM-01-32,2026-07-06,Lakeside Components,Battery Controller,Night,Pioneer Circuit Works,939,957,32,866,54.3,No,Normal variation
+NM-01-33,2026-07-06,Lakeside Components,Infotainment Harness,Night,Pioneer Circuit Works,1266,1157,47,1027,48.3,No,Review supplier batch
+NM-01-34,2026-07-06,Lakeside Components,Drive Unit Housing,Night,Blue Harbor Components,1252,1262,27,1233,43.6,No,Normal variation
+NM-01-41,2026-07-06,Metro EV Systems,Sensor Module,Day,Cedar Forge,1111,1080,41,1058,62.7,No,Normal variation
+NM-01-42,2026-07-06,Metro EV Systems,Battery Controller,Night,Vector Embedded,1006,976,24,900,48.2,No,Normal variation
+NM-01-43,2026-07-06,Metro EV Systems,Infotainment Harness,Night,Vector Embedded,1226,1226,38,1178,55.3,Yes,Normal variation
+NM-01-44,2026-07-06,Metro EV Systems,Drive Unit Housing,Night,Pioneer Circuit Works,1015,991,28,928,32.9,No,Normal variation
+NM-02-11,2026-07-13,North Assembly,Sensor Module,Swing,Vector Embedded,1113,1071,24,1047,41.1,No,Normal variation
+NM-02-12,2026-07-13,North Assembly,Battery Controller,Swing,Cedar Forge,1005,1016,33,977,28.8,No,Normal variation
+NM-02-13,2026-07-13,North Assembly,Infotainment Harness,Swing,Pioneer Circuit Works,966,966,40,903,38.0,No,Review supplier batch
+NM-02-14,2026-07-13,North Assembly,Drive Unit Housing,Swing,Pioneer Circuit Works,1193,1115,23,1040,62.3,No,Normal variation
+NM-02-21,2026-07-13,River Rouge Pilot,Sensor Module,Night,Vector Embedded,974,903,19,855,31.6,No,Normal variation
+NM-02-22,2026-07-13,River Rouge Pilot,Battery Controller,Day,Summit Plastics,1015,914,17,840,37.5,No,Normal variation
+NM-02-23,2026-07-13,River Rouge Pilot,Infotainment Harness,Swing,Cedar Forge,841,868,17,845,54.9,No,Normal variation
+NM-02-24,2026-07-13,River Rouge Pilot,Drive Unit Housing,Swing,Blue Harbor Components,1176,1215,45,1135,46.7,No,Normal variation
+NM-02-31,2026-07-13,Lakeside Components,Sensor Module,Night,Pioneer Circuit Works,961,917,37,847,57.0,No,Review supplier batch
+NM-02-32,2026-07-13,Lakeside Components,Battery Controller,Day,Summit Plastics,1206,1083,36,1037,63.4,No,Normal variation
+NM-02-33,2026-07-13,Lakeside Components,Infotainment Harness,Night,Pioneer Circuit Works,1039,976,17,939,38.0,No,Normal variation
+NM-02-34,2026-07-13,Lakeside Components,Drive Unit Housing,Night,Vector Embedded,889,906,26,820,40.4,No,Normal variation
+NM-02-41,2026-07-13,Metro EV Systems,Sensor Module,Swing,Vector Embedded,1053,1026,38,967,42.9,No,Normal variation
+NM-02-42,2026-07-13,Metro EV Systems,Battery Controller,Night,Blue Harbor Components,1127,1040,41,985,47.5,No,Normal variation
+NM-02-43,2026-07-13,Metro EV Systems,Infotainment Harness,Night,Vector Embedded,1124,1112,22,1009,56.2,No,Normal variation
+NM-02-44,2026-07-13,Metro EV Systems,Drive Unit Housing,Night,Pioneer Circuit Works,1006,910,18,837,62.1,Yes,Normal variation
+NM-03-11,2026-07-20,North Assembly,Sensor Module,Swing,Vector Embedded,1149,1047,42,1020,36.2,No,Review supplier batch
+NM-03-12,2026-07-20,North Assembly,Battery Controller,Day,Summit Plastics,873,852,30,803,39.0,No,Normal variation
+NM-03-13,2026-07-20,North Assembly,Infotainment Harness,Night,Cedar Forge,1209,1077,44,1058,54.3,No,Review supplier batch
+NM-03-14,2026-07-20,North Assembly,Drive Unit Housing,Swing,Vector Embedded,834,791,28,703,52.4,Yes,Normal variation
+NM-03-21,2026-07-20,River Rouge Pilot,Sensor Module,Swing,Cedar Forge,1227,1160,45,1032,63.5,No,Normal variation
+NM-03-22,2026-07-20,River Rouge Pilot,Battery Controller,Swing,Blue Harbor Components,1151,1079,28,1006,52.0,Yes,Normal variation
+NM-03-23,2026-07-20,River Rouge Pilot,Infotainment Harness,Swing,Pioneer Circuit Works,1070,995,16,960,50.5,No,Normal variation
+NM-03-24,2026-07-20,River Rouge Pilot,Drive Unit Housing,Day,Cedar Forge,1073,1061,33,1007,63.3,No,Normal variation
+NM-03-31,2026-07-20,Lakeside Components,Sensor Module,Day,Cedar Forge,961,940,20,912,48.6,No,Normal variation
+NM-03-32,2026-07-20,Lakeside Components,Battery Controller,Day,Blue Harbor Components,1215,1113,23,979,43.0,No,Normal variation
+NM-03-33,2026-07-20,Lakeside Components,Infotainment Harness,Swing,Blue Harbor Components,1042,984,37,937,63.3,No,Normal variation
+NM-03-34,2026-07-20,Lakeside Components,Drive Unit Housing,Night,Summit Plastics,1210,1161,23,1142,42.5,No,Normal variation
+NM-03-41,2026-07-20,Metro EV Systems,Sensor Module,Night,Blue Harbor Components,852,827,24,747,35.8,Yes,Normal variation
+NM-03-42,2026-07-20,Metro EV Systems,Battery Controller,Night,Pioneer Circuit Works,1178,1218,44,1085,32.2,No,Normal variation
+NM-03-43,2026-07-20,Metro EV Systems,Infotainment Harness,Night,Pioneer Circuit Works,826,742,29,682,59.9,No,Normal variation
+NM-03-44,2026-07-20,Metro EV Systems,Drive Unit Housing,Swing,Vector Embedded,1082,1093,45,1040,53.7,Yes,Review supplier batch
+NM-04-11,2026-07-27,North Assembly,Sensor Module,Day,Vector Embedded,1163,1052,44,938,57.9,No,Review supplier batch
+NM-04-12,2026-07-27,North Assembly,Battery Controller,Day,Vector Embedded,1028,989,40,876,32.3,No,Review supplier batch
+NM-04-13,2026-07-27,North Assembly,Infotainment Harness,Day,Cedar Forge,966,875,33,829,62.3,No,Normal variation
+NM-04-14,2026-07-27,North Assembly,Drive Unit Housing,Swing,Cedar Forge,1063,1030,37,916,55.6,No,Normal variation
+NM-04-21,2026-07-27,River Rouge Pilot,Sensor Module,Night,Pioneer Circuit Works,1255,1240,17,1118,39.4,No,Normal variation
+NM-04-22,2026-07-27,River Rouge Pilot,Battery Controller,Night,Vector Embedded,870,903,34,814,56.9,No,Normal variation
+NM-04-23,2026-07-27,River Rouge Pilot,Infotainment Harness,Night,Cedar Forge,878,795,10,741,28.9,No,Normal variation
+NM-04-24,2026-07-27,River Rouge Pilot,Drive Unit Housing,Swing,Blue Harbor Components,1127,1114,41,1041,45.3,Yes,Normal variation
+NM-04-31,2026-07-27,Lakeside Components,Sensor Module,Swing,Blue Harbor Components,850,784,28,742,29.9,No,Normal variation
+NM-04-32,2026-07-27,Lakeside Components,Battery Controller,Day,Pioneer Circuit Works,1000,998,13,979,45.8,No,Normal variation
+NM-04-33,2026-07-27,Lakeside Components,Infotainment Harness,Day,Summit Plastics,982,926,26,892,43.6,No,Normal variation
+NM-04-34,2026-07-27,Lakeside Components,Drive Unit Housing,Night,Cedar Forge,1088,1010,40,986,43.2,No,Normal variation
+NM-04-41,2026-07-27,Metro EV Systems,Sensor Module,Night,Pioneer Circuit Works,882,848,20,797,45.9,No,Normal variation
+NM-04-42,2026-07-27,Metro EV Systems,Battery Controller,Day,Pioneer Circuit Works,1048,969,20,889,33.2,No,Normal variation
+NM-04-43,2026-07-27,Metro EV Systems,Infotainment Harness,Swing,Pioneer Circuit Works,934,854,23,784,34.4,No,Normal variation
+NM-04-44,2026-07-27,Metro EV Systems,Drive Unit Housing,Night,Blue Harbor Components,1160,1062,21,981,36.9,No,Normal variation
+NM-05-11,2026-08-03,North Assembly,Sensor Module,Night,Blue Harbor Components,1003,977,25,936,36.0,No,Normal variation
+NM-05-12,2026-08-03,North Assembly,Battery Controller,Night,Vector Embedded,1164,1050,42,986,33.8,No,Normal variation
+NM-05-13,2026-08-03,North Assembly,Infotainment Harness,Swing,Vector Embedded,1020,987,40,952,39.4,No,Review supplier batch
+NM-05-14,2026-08-03,North Assembly,Drive Unit Housing,Day,Summit Plastics,941,869,28,795,39.0,No,Normal variation
+NM-05-21,2026-08-03,River Rouge Pilot,Sensor Module,Swing,Summit Plastics,1107,1050,23,1005,50.0,Yes,Normal variation
+NM-05-22,2026-08-03,River Rouge Pilot,Battery Controller,Night,Blue Harbor Components,947,936,22,853,41.9,No,Normal variation
+NM-05-23,2026-08-03,River Rouge Pilot,Infotainment Harness,Swing,Summit Plastics,1270,1145,22,1059,39.9,Yes,Normal variation
+NM-05-24,2026-08-03,River Rouge Pilot,Drive Unit Housing,Swing,Vector Embedded,1154,1197,29,1080,28.3,No,Normal variation
+NM-05-31,2026-08-03,Lakeside Components,Sensor Module,Day,Summit Plastics,1264,1168,20,1060,39.3,No,Normal variation
+NM-05-32,2026-08-03,Lakeside Components,Battery Controller,Night,Pioneer Circuit Works,911,868,18,785,40.4,No,Normal variation
+NM-05-33,2026-08-03,Lakeside Components,Infotainment Harness,Night,Pioneer Circuit Works,1072,1043,38,1006,44.7,No,Normal variation
+NM-05-34,2026-08-03,Lakeside Components,Drive Unit Housing,Night,Cedar Forge,868,841,27,790,58.9,No,Normal variation
+NM-05-41,2026-08-03,Metro EV Systems,Sensor Module,Swing,Blue Harbor Components,1098,1009,23,898,41.1,No,Normal variation
+NM-05-42,2026-08-03,Metro EV Systems,Battery Controller,Day,Summit Plastics,1268,1264,20,1121,50.9,No,Normal variation
+NM-05-43,2026-08-03,Metro EV Systems,Infotainment Harness,Swing,Blue Harbor Components,841,844,12,806,30.3,No,Normal variation
+NM-05-44,2026-08-03,Metro EV Systems,Drive Unit Housing,Swing,Blue Harbor Components,969,939,13,909,42.5,No,Normal variation
+NM-06-11,2026-08-10,North Assembly,Sensor Module,Swing,Summit Plastics,901,874,24,797,45.7,No,Normal variation
+NM-06-12,2026-08-10,North Assembly,Battery Controller,Swing,Summit Plastics,841,862,11,789,53.7,No,Normal variation
+NM-06-13,2026-08-10,North Assembly,Infotainment Harness,Day,Vector Embedded,1280,1210,22,1102,57.7,No,Normal variation
+NM-06-14,2026-08-10,North Assembly,Drive Unit Housing,Swing,Summit Plastics,1215,1251,51,1181,29.2,No,Review supplier batch
+NM-06-21,2026-08-10,River Rouge Pilot,Sensor Module,Day,Summit Plastics,868,788,32,753,62.9,No,Review supplier batch
+NM-06-22,2026-08-10,River Rouge Pilot,Battery Controller,Swing,Pioneer Circuit Works,1066,950,34,907,50.5,No,Normal variation
+NM-06-23,2026-08-10,River Rouge Pilot,Infotainment Harness,Swing,Pioneer Circuit Works,918,894,11,855,44.5,Yes,Normal variation
+NM-06-24,2026-08-10,River Rouge Pilot,Drive Unit Housing,Swing,Vector Embedded,958,891,28,824,32.9,No,Normal variation
+NM-06-31,2026-08-10,Lakeside Components,Sensor Module,Day,Summit Plastics,1152,1035,37,1016,38.7,Yes,Normal variation
+NM-06-32,2026-08-10,Lakeside Components,Battery Controller,Swing,Pioneer Circuit Works,1207,1106,13,1021,35.0,No,Normal variation
+NM-06-33,2026-08-10,Lakeside Components,Infotainment Harness,Night,Vector Embedded,1252,1166,15,1073,29.6,No,Normal variation
+NM-06-34,2026-08-10,Lakeside Components,Drive Unit Housing,Day,Cedar Forge,1170,1165,34,1051,55.3,No,Normal variation
+NM-06-41,2026-08-10,Metro EV Systems,Sensor Module,Swing,Pioneer Circuit Works,1259,1296,48,1246,41.3,No,Normal variation
+NM-06-42,2026-08-10,Metro EV Systems,Battery Controller,Night,Pioneer Circuit Works,825,835,31,761,28.8,No,Normal variation
+NM-06-43,2026-08-10,Metro EV Systems,Infotainment Harness,Night,Vector Embedded,956,944,17,875,40.4,No,Normal variation
+NM-06-44,2026-08-10,Metro EV Systems,Drive Unit Housing,Day,Summit Plastics,838,811,21,778,29.5,Yes,Normal variation
+NM-07-11,2026-08-17,North Assembly,Sensor Module,Night,Vector Embedded,996,941,27,893,34.1,No,Normal variation
+NM-07-12,2026-08-17,North Assembly,Battery Controller,Night,Blue Harbor Components,1142,1176,47,1111,59.8,No,Normal variation
+NM-07-13,2026-08-17,North Assembly,Infotainment Harness,Swing,Pioneer Circuit Works,855,851,18,775,48.9,No,Normal variation
+NM-07-14,2026-08-17,North Assembly,Drive Unit Housing,Swing,Summit Plastics,1227,1218,32,1132,60.0,No,Normal variation
+NM-07-21,2026-08-17,River Rouge Pilot,Sensor Module,Swing,Pioneer Circuit Works,856,871,34,767,38.0,Yes,Normal variation
+NM-07-22,2026-08-17,River Rouge Pilot,Battery Controller,Day,Cedar Forge,1146,1095,26,1060,44.6,No,Normal variation
+NM-07-23,2026-08-17,River Rouge Pilot,Infotainment Harness,Night,Summit Plastics,1048,1035,16,995,63.3,Yes,Normal variation
+NM-07-24,2026-08-17,River Rouge Pilot,Drive Unit Housing,Night,Summit Plastics,1239,1170,31,1042,63.0,No,Normal variation
+NM-07-31,2026-08-17,Lakeside Components,Sensor Module,Day,Summit Plastics,1159,1128,40,1045,30.6,No,Normal variation
+NM-07-32,2026-08-17,Lakeside Components,Battery Controller,Day,Summit Plastics,1171,1182,35,1043,48.3,No,Normal variation
+NM-07-33,2026-08-17,Lakeside Components,Infotainment Harness,Night,Vector Embedded,1007,907,16,884,33.4,No,Normal variation
+NM-07-34,2026-08-17,Lakeside Components,Drive Unit Housing,Day,Cedar Forge,893,923,33,899,63.3,No,Normal variation
+NM-07-41,2026-08-17,Metro EV Systems,Sensor Module,Night,Vector Embedded,867,776,18,762,45.2,No,Normal variation
+NM-07-42,2026-08-17,Metro EV Systems,Battery Controller,Night,Blue Harbor Components,839,780,29,699,56.9,No,Normal variation
+NM-07-43,2026-08-17,Metro EV Systems,Infotainment Harness,Day,Vector Embedded,913,821,33,750,47.4,No,Review supplier batch
+NM-07-44,2026-08-17,Metro EV Systems,Drive Unit Housing,Night,Vector Embedded,1099,991,21,920,38.8,No,Normal variation
+NM-08-11,2026-08-24,North Assembly,Sensor Module,Day,Pioneer Circuit Works,1068,955,25,897,37.0,No,Normal variation
+NM-08-12,2026-08-24,North Assembly,Battery Controller,Swing,Pioneer Circuit Works,932,929,27,844,55.5,No,Normal variation
+NM-08-13,2026-08-24,North Assembly,Infotainment Harness,Day,Pioneer Circuit Works,1214,1132,34,1031,41.1,No,Normal variation
+NM-08-14,2026-08-24,North Assembly,Drive Unit Housing,Night,Blue Harbor Components,997,1029,36,923,34.6,Yes,Normal variation
+NM-08-21,2026-08-24,River Rouge Pilot,Sensor Module,Night,Cedar Forge,1162,1094,24,983,41.0,Yes,Normal variation
+NM-08-22,2026-08-24,River Rouge Pilot,Battery Controller,Swing,Vector Embedded,1149,1068,29,992,36.5,No,Normal variation
+NM-08-23,2026-08-24,River Rouge Pilot,Infotainment Harness,Day,Summit Plastics,1086,1020,32,989,62.9,No,Normal variation
+NM-08-24,2026-08-24,River Rouge Pilot,Drive Unit Housing,Night,Summit Plastics,827,772,24,746,54.7,No,Normal variation
+NM-08-31,2026-08-24,Lakeside Components,Sensor Module,Swing,Summit Plastics,879,761,18,738,53.0,No,Normal variation
+NM-08-32,2026-08-24,Lakeside Components,Battery Controller,Swing,Blue Harbor Components,1243,1025,40,906,37.9,No,Normal variation
+NM-08-33,2026-08-24,Lakeside Components,Infotainment Harness,Night,Vector Embedded,1243,1059,23,1005,53.4,No,Normal variation
+NM-08-34,2026-08-24,Lakeside Components,Drive Unit Housing,Day,Summit Plastics,1089,1013,21,941,28.7,No,Normal variation
+NM-08-41,2026-08-24,Metro EV Systems,Sensor Module,Day,Pioneer Circuit Works,1145,1169,20,1052,63.9,No,Normal variation
+NM-08-42,2026-08-24,Metro EV Systems,Battery Controller,Swing,Summit Plastics,895,926,28,876,51.3,No,Normal variation
+NM-08-43,2026-08-24,Metro EV Systems,Infotainment Harness,Day,Pioneer Circuit Works,991,885,13,868,63.6,No,Normal variation
+NM-08-44,2026-08-24,Metro EV Systems,Drive Unit Housing,Night,Summit Plastics,1086,1018,23,944,48.4,No,Normal variation
+NM-09-11,2026-08-31,North Assembly,Sensor Module,Night,Blue Harbor Components,903,861,13,761,32.8,No,Normal variation
+NM-09-12,2026-08-31,North Assembly,Battery Controller,Swing,Summit Plastics,1164,1090,40,1053,37.8,No,Normal variation
+NM-09-13,2026-08-31,North Assembly,Infotainment Harness,Swing,Cedar Forge,1112,1105,20,1047,63.9,No,Normal variation
+NM-09-14,2026-08-31,North Assembly,Drive Unit Housing,Night,Vector Embedded,1110,1147,43,1039,63.8,No,Normal variation
+NM-09-21,2026-08-31,River Rouge Pilot,Sensor Module,Day,Vector Embedded,1134,1086,37,1004,50.8,No,Normal variation
+NM-09-22,2026-08-31,River Rouge Pilot,Battery Controller,Day,Summit Plastics,1128,1020,40,933,50.7,No,Normal variation
+NM-09-23,2026-08-31,River Rouge Pilot,Infotainment Harness,Swing,Summit Plastics,948,912,18,811,38.5,No,Normal variation
+NM-09-24,2026-08-31,River Rouge Pilot,Drive Unit Housing,Swing,Blue Harbor Components,917,856,28,806,36.4,No,Normal variation
+NM-09-31,2026-08-31,Lakeside Components,Sensor Module,Swing,Summit Plastics,1239,1152,32,1075,62.3,Yes,Normal variation
+NM-09-32,2026-08-31,Lakeside Components,Battery Controller,Swing,Summit Plastics,1154,982,33,906,60.0,No,Normal variation
+NM-09-33,2026-08-31,Lakeside Components,Infotainment Harness,Swing,Pioneer Circuit Works,1146,973,34,856,46.3,No,Normal variation
+NM-09-34,2026-08-31,Lakeside Components,Drive Unit Housing,Night,Summit Plastics,1023,886,16,859,52.0,No,Normal variation
+NM-09-41,2026-08-31,Metro EV Systems,Sensor Module,Day,Cedar Forge,1239,1282,22,1240,55.9,No,Normal variation
+NM-09-42,2026-08-31,Metro EV Systems,Battery Controller,Swing,Blue Harbor Components,821,797,25,702,28.9,No,Normal variation
+NM-09-43,2026-08-31,Metro EV Systems,Infotainment Harness,Day,Vector Embedded,956,952,14,846,43.0,No,Normal variation
+NM-09-44,2026-08-31,Metro EV Systems,Drive Unit Housing,Day,Cedar Forge,981,890,37,833,60.2,No,Review supplier batch
+NM-10-11,2026-09-07,North Assembly,Sensor Module,Day,Blue Harbor Components,1176,1146,35,1052,56.7,No,Normal variation
+NM-10-12,2026-09-07,North Assembly,Battery Controller,Day,Blue Harbor Components,1228,1108,34,1019,53.1,No,Normal variation
+NM-10-13,2026-09-07,North Assembly,Infotainment Harness,Day,Cedar Forge,1003,930,28,909,62.1,No,Normal variation
+NM-10-14,2026-09-07,North Assembly,Drive Unit Housing,Swing,Vector Embedded,974,896,12,827,59.1,No,Normal variation
+NM-10-21,2026-09-07,River Rouge Pilot,Sensor Module,Night,Summit Plastics,900,935,12,899,63.6,Yes,Normal variation
+NM-10-22,2026-09-07,River Rouge Pilot,Battery Controller,Day,Vector Embedded,856,791,30,709,42.7,No,Normal variation
+NM-10-23,2026-09-07,River Rouge Pilot,Infotainment Harness,Swing,Vector Embedded,1268,1247,52,1119,37.0,No,Review supplier batch
+NM-10-24,2026-09-07,River Rouge Pilot,Drive Unit Housing,Night,Pioneer Circuit Works,1273,1295,35,1231,37.4,No,Normal variation
+NM-10-31,2026-09-07,Lakeside Components,Sensor Module,Night,Cedar Forge,1155,1082,18,1037,60.4,No,Normal variation
+NM-10-32,2026-09-07,Lakeside Components,Battery Controller,Swing,Cedar Forge,944,822,40,805,36.4,No,Review supplier batch
+NM-10-33,2026-09-07,Lakeside Components,Infotainment Harness,Night,Summit Plastics,925,812,26,769,60.9,No,Normal variation
+NM-10-34,2026-09-07,Lakeside Components,Drive Unit Housing,Night,Vector Embedded,1200,1114,46,1047,38.8,No,Review supplier batch
+NM-10-41,2026-09-07,Metro EV Systems,Sensor Module,Day,Blue Harbor Components,857,824,26,789,61.5,No,Normal variation
+NM-10-42,2026-09-07,Metro EV Systems,Battery Controller,Swing,Summit Plastics,831,832,37,740,36.9,Yes,Review supplier batch
+NM-10-43,2026-09-07,Metro EV Systems,Infotainment Harness,Night,Pioneer Circuit Works,1200,1176,16,1141,47.9,No,Normal variation
+NM-10-44,2026-09-07,Metro EV Systems,Drive Unit Housing,Day,Vector Embedded,878,792,15,722,35.5,No,Normal variation
+NM-11-11,2026-09-14,North Assembly,Sensor Module,Day,Pioneer Circuit Works,872,801,23,776,62.6,No,Normal variation
+NM-11-12,2026-09-14,North Assembly,Battery Controller,Night,Pioneer Circuit Works,821,852,48,758,39.6,No,Review supplier batch
+NM-11-13,2026-09-14,North Assembly,Infotainment Harness,Swing,Vector Embedded,956,962,24,901,37.3,No,Normal variation
+NM-11-14,2026-09-14,North Assembly,Drive Unit Housing,Swing,Vector Embedded,934,898,11,819,29.4,No,Normal variation
+NM-11-21,2026-09-14,River Rouge Pilot,Sensor Module,Night,Cedar Forge,902,838,32,793,32.8,No,Normal variation
+NM-11-22,2026-09-14,River Rouge Pilot,Battery Controller,Day,Summit Plastics,1032,1050,59,1007,37.9,No,Review supplier batch
+NM-11-23,2026-09-14,River Rouge Pilot,Infotainment Harness,Day,Pioneer Circuit Works,1041,947,37,835,56.1,No,Normal variation
+NM-11-24,2026-09-14,River Rouge Pilot,Drive Unit Housing,Day,Cedar Forge,1034,971,39,926,32.1,No,Review supplier batch
+NM-11-31,2026-09-14,Lakeside Components,Sensor Module,Day,Vector Embedded,1235,1070,19,962,32.1,No,Normal variation
+NM-11-32,2026-09-14,Lakeside Components,Battery Controller,Swing,Blue Harbor Components,848,764,39,721,34.9,No,Review supplier batch
+NM-11-33,2026-09-14,Lakeside Components,Infotainment Harness,Night,Cedar Forge,1152,977,20,879,45.0,Yes,Normal variation
+NM-11-34,2026-09-14,Lakeside Components,Drive Unit Housing,Swing,Blue Harbor Components,1075,1022,39,906,42.3,No,Normal variation
+NM-11-41,2026-09-14,Metro EV Systems,Sensor Module,Swing,Blue Harbor Components,975,997,38,921,58.8,No,Normal variation
+NM-11-42,2026-09-14,Metro EV Systems,Battery Controller,Night,Blue Harbor Components,979,997,57,919,46.6,No,Review supplier batch
+NM-11-43,2026-09-14,Metro EV Systems,Infotainment Harness,Night,Pioneer Circuit Works,1084,988,18,969,46.5,Yes,Normal variation
+NM-11-44,2026-09-14,Metro EV Systems,Drive Unit Housing,Night,Blue Harbor Components,1275,1243,49,1109,56.0,No,Normal variation
+NM-12-11,2026-09-21,North Assembly,Sensor Module,Swing,Blue Harbor Components,960,918,29,880,44.2,No,Normal variation
+NM-12-12,2026-09-21,North Assembly,Battery Controller,Night,Pioneer Circuit Works,907,882,15,822,52.0,No,Normal variation
+NM-12-13,2026-09-21,North Assembly,Infotainment Harness,Swing,Summit Plastics,983,936,16,915,61.4,No,Normal variation
+NM-12-14,2026-09-21,North Assembly,Drive Unit Housing,Day,Vector Embedded,968,893,29,853,58.5,No,Normal variation
+NM-12-21,2026-09-21,River Rouge Pilot,Sensor Module,Swing,Cedar Forge,847,819,17,760,36.0,No,Normal variation
+NM-12-22,2026-09-21,River Rouge Pilot,Battery Controller,Swing,Vector Embedded,1092,1047,35,934,38.4,No,Normal variation
+NM-12-23,2026-09-21,River Rouge Pilot,Infotainment Harness,Night,Cedar Forge,1049,1035,36,919,59.1,No,Normal variation
+NM-12-24,2026-09-21,River Rouge Pilot,Drive Unit Housing,Day,Blue Harbor Components,1043,942,17,925,32.5,No,Normal variation
+NM-12-31,2026-09-21,Lakeside Components,Sensor Module,Day,Cedar Forge,985,934,22,861,48.5,No,Normal variation
+NM-12-32,2026-09-21,Lakeside Components,Battery Controller,Day,Summit Plastics,1216,1002,23,882,51.5,No,Normal variation
+NM-12-33,2026-09-21,Lakeside Components,Infotainment Harness,Day,Pioneer Circuit Works,870,815,11,724,57.6,No,Normal variation
+NM-12-34,2026-09-21,Lakeside Components,Drive Unit Housing,Night,Summit Plastics,1199,1122,41,1054,29.2,No,Normal variation
+NM-12-41,2026-09-21,Metro EV Systems,Sensor Module,Swing,Pioneer Circuit Works,827,756,25,686,29.3,No,Normal variation
+NM-12-42,2026-09-21,Metro EV Systems,Battery Controller,Swing,Summit Plastics,831,835,19,765,57.4,No,Normal variation
+NM-12-43,2026-09-21,Metro EV Systems,Infotainment Harness,Day,Summit Plastics,977,921,29,896,58.5,No,Normal variation
+NM-12-44,2026-09-21,Metro EV Systems,Drive Unit Housing,Day,Vector Embedded,830,859,18,781,28.7,No,Normal variation

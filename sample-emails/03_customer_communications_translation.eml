@@ -1,0 +1,15 @@
+From: Mia Chen <mia.chen@northstarmobility.example>
+To: Michael Trainer <michael.trainer@example.com>
+Subject: Sample communication for translation and tone rewrite
+Date: Tue, 29 Sep 2026 09:00:00 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Classification: Public. This demo uses a fictional Microsoft Fake Company created for demonstration purposes. Any resemblance to real organizations, people, products, services, or data is coincidental. Do not use customer confidential information in this repository.
+
+Could you rewrite the following for a customer-facing operations audience and translate it to Spanish?
+
+We completed the review of sample telemetry records and found that most alerts were resolved within the expected window. We are continuing to monitor the remaining items and will provide another update after the next production checkpoint.
+
+Thanks,
+Mia

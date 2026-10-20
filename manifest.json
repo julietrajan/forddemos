@@ -1,0 +1,90 @@
+{
+  "classification": "Public",
+  "package": "Ford Copilot Delivery Kit 2026-09-29",
+  "fictionalCompany": "Northstar Mobility",
+  "disclaimer": "Fictional Microsoft Fake Company sample content. Do not add customer confidential information.",
+  "sessions": [
+    "Copilot in Outlook & Teams",
+    "Copilot in PowerPoint & Word",
+    "Copilot in Excel",
+    "Marketing Word document demos"
+  ],
+  "artifacts": [
+    {
+      "path": "DEMO-INSTRUCTIONS.docx",
+      "bytes": 147456
+    },
+    {
+      "path": "DEMO-INSTRUCTIONS.md",
+      "bytes": 5722
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 1842
+    },
+    {
+      "path": "README.md",
+      "bytes": 1820
+    },
+    {
+      "path": "artifacts\\Ford_Branded_Template_Sample.pptx",
+      "bytes": 225792
+    },
+    {
+      "path": "artifacts\\Ford_Copilot_Excel_Demo_Data.xlsx",
+      "bytes": 172032
+    },
+    {
+      "path": "artifacts\\Ford_Copilot_Trainer_Prompt_Guide.docx",
+      "bytes": 147456
+    },
+    {
+      "path": "artifacts\\Ford_Long_Marketing_Material_Sample.docx",
+      "bytes": 11771
+    },
+    {
+      "path": "artifacts\\Ford_New_Car_Marketing_Campaign_Brief.docx",
+      "bytes": 10908
+    },
+    {
+      "path": "artifacts\\Ford_Teams_Product_Quality_Review_Transcript.docx",
+      "bytes": 147456
+    },
+    {
+      "path": "labs\\marketing-word-document-demo-prompts.md",
+      "bytes": 2690
+    },
+    {
+      "path": "labs\\session-1-copilot-in-outlook-teams-lab.md",
+      "bytes": 3080
+    },
+    {
+      "path": "labs\\session-2-copilot-in-powerpoint-word-lab.md",
+      "bytes": 3032
+    },
+    {
+      "path": "labs\\session-3-copilot-in-excel-lab.md",
+      "bytes": 3157
+    },
+    {
+      "path": "sample-data\\northstar_operations_data.csv",
+      "bytes": 23634
+    },
+    {
+      "path": "sample-emails\\01_supplier_quality_followup.eml",
+      "bytes": 878
+    },
+    {
+      "path": "sample-emails\\02_launch_readiness_status.eml",
+      "bytes": 849
+    },
+    {
+      "path": "sample-emails\\03_customer_communications_translation.eml",
+      "bytes": 897
+    },
+    {
+      "path": "sample-emails\\04_copilot_instructions_example.eml",
+      "bytes": 772
+    }
+  ]
+}
